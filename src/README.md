@@ -1,0 +1,2 @@
+El proyecto usa la libreria react-hook-form para ayudar a gestionar el uso de los formularios en el proyecto
+El proyecto usa Zustand que es una dependencia para manejar el estado global de la aplicacion
